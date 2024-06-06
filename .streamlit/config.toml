@@ -1,0 +1,7 @@
+[client]
+showErrorDetails = false
+
+[server]
+port = 80
+
+[theme]
